@@ -4,6 +4,7 @@ I had troube using Adafruit SSD1306 driver for my project with SSD1309 so I modi
 ONLY WORK WITH I2C
 
 Tested on Raspberry Pi 3b+, Raspberry Pi OS Legacy (bullseye)
+<br>Display: REX012864G
 
 
 # Installing and setting up the display
