@@ -1,5 +1,5 @@
 # Modified-Adafruit-Python-oled-driver-for-SSD1309-1306
-I had troube using Adafruit SSD1306 driver for my project with SSD1309 so I modified it to work with this display. Display was little bit messy with low brightness. To avoid this its necessary to edit Initialization and Write sections. I hope this will help someone facing same problem.
+I had troube using Adafruit SSD1306 driver for my project with SSD1309 so I modified it to work with this display. Display was little bit messy with low brightness. To avoid this its necessary to edit Initialization and Show sections. I hope this will help someone facing same problem.
 
 ONLY WORK WITH I2C
 
